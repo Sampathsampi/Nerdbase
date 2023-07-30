@@ -98,7 +98,7 @@ const Footer = () => {
                   <br />
                   PSN block , Madipakkam
                   <br />
-                  Chennai - 627425
+                  Chennai - 600096
                 </Typography>
                 <Typography
                   component={"h6"}
