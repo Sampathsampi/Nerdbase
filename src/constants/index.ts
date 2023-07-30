@@ -1,0 +1,2 @@
+export {navItem,differences,process,getIntouch,imagePaths} from './utilities'
+export {h2,h2Primary,h2PrimaryHollow,caption,buttonPrimary,circle,hLarge,darkHallow,circleDark,circleBlack,buttonPrimaryBlack} from './styles'
